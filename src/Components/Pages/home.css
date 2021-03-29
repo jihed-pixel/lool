@@ -1,0 +1,45 @@
+.landing-background
+{
+background-image: url(../img/Web.jpg);
+background-size: cover;
+min-width: 100%;
+min-height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+}
+.landing-background1
+{
+background-image: url(../img/Project_162-05.jpg);
+background-size: cover;
+min-width: 100%;
+min-height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+}
+.landing-background2
+{
+background-image: url(../img/Project_162-04.jpg);
+background-size: cover;
+min-width: 100%;
+min-height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+}
+.landing-background
+{
+background-image: url(../img/Web1.jpg);
+background-size: cover;
+min-width: 100%;
+min-height: 100%;
+background-position: center;
+background-repeat:no-repeat;
+}
+.landing-background4
+{
+background-image: url(../img/Project_162-04.jpg);
+background-size: cover;
+min-width: 100%;
+min-height: 100%;
+background-repeat:no-repeat;
+background-attachment: fixed;
+}
